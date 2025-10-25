@@ -103,8 +103,9 @@ If this tool helped you land an interview, consider:
 
 ## 🔗 Connect
 
-Created by [Your Name](https://github.com/yourusername)
+Created by [Vatsal sharma](https://github.com/yourusername)
 
 ---
+
 
 **Note**: This is a client-side tool and doesn't use AI APIs. All analysis happens in your browser using smart algorithms. Your resume data never leaves your computer!
